@@ -10,7 +10,7 @@ namespace WifiLogin_CodeGenerator
 {
     class SqlController
     {
-        private const string connectionString = @"Server = RO-SKP-01838; Database=MaetsStore; Integrated Security = true";
+        private const string connectionString = @"Server = RO-SKP-01838; Database=somethingnotyet; Integrated Security = true";
 
         public string ConnectionString
         {
